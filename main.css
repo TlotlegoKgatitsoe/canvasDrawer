@@ -1,0 +1,26 @@
+/* Canvas Drawer */
+
+/* The painting area */
+
+canvas {
+ position: fixed;
+ top: 11px;
+ left: 11px;
+ background-color: #eee;
+ border-radius: 4px;
+ border: 1px solid black;
+}
+
+/* The button */
+
+.button {
+ position: fixed;
+ bottom: 8px;
+ right: 8px;
+ height: 40px;
+ width: 115px;
+ color: white;
+ background-color: red;
+ outline: none;
+ border-radius: 4px;
+}
